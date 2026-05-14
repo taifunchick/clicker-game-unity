@@ -86,8 +86,8 @@ cd clicker-game
 ## 📸 Screenshots
 
 <div align="center">
-<img src="screenshots/main_menu.png" alt="Main Menu" width="45%"/> 
-<img src="screenshots/shop.png" alt="Gameplay" width="45%"/> 
+<img src="Screenshots/main_menu.png" alt="Main Menu" width="45%"/> 
+<img src="Screenshots/shop.png" alt="Gameplay" width="45%"/> 
 </div>
 
 ---
